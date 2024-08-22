@@ -54,7 +54,7 @@
     "stripe": "^8.149.0",
     "url": "^0.11.0",
     "vue-timeago": "^5.0.0",
-    "ws": "^6.1.0"
+    "ws": "^6.2.3"
   },
   "devDependencies": {
     "@babel/plugin-proposal-optional-chaining": "^7.6.0",
